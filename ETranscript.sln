@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETranscript", "ETranscript.csproj", "{B9A88BDF-5DB2-4CAF-B610-AAF43A5D3969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9A88BDF-5DB2-4CAF-B610-AAF43A5D3969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A88BDF-5DB2-4CAF-B610-AAF43A5D3969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A88BDF-5DB2-4CAF-B610-AAF43A5D3969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A88BDF-5DB2-4CAF-B610-AAF43A5D3969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92052621-3E4A-48DD-A060-E08106CF06CE}
+	EndGlobalSection
+EndGlobal
